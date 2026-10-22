@@ -23,6 +23,10 @@ Sitio publicado: https://TU-USUARIO.github.io/parche-dev/
 
 - (Explica al menos tres decisiones: por qué elegiste una etiqueta y no otra.)
 - (Responde las preguntas del apartado “Investiga” del ticket 5.)
+    - ¿Qué aparece después del ?? 
+    - ¿Cómo se ven los espacios, las tildes y la arroba?
+    - ¿Qué pasa con los campos que no llenaste?
+    - ¿Por qué un formulario con contraseñas nunca debería usar method="get"? Con este método los datos quedan visibles en la dirección del navegador
 
 ## Lo que aprendí
 
